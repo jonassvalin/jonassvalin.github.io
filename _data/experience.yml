@@ -11,7 +11,7 @@
     the work with my colleageus, writing code for both backend, frontend and infrastructure, as well as managing deployments.
 
     <mark>Clojure</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>React</mark> <mark>Scala</mark> <mark>Kubernetes</mark>
-    <mark>Google Cloud</mark> <mark>Kafka</mark> <mark>MongoDB</mark>
+    <mark>Google Cloud</mark> <mark>Kafka</mark> <mark>MongoDB</mark> <mark>Github Actions</mark>
 
 - layout: left
   company: Kroo
@@ -27,7 +27,7 @@
     interviews as well as planned and executed the full rebrand of the company when the name was changed.
 
     <mark>Clojure</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>React-Native</mark> <mark>Kafka</mark> <mark>AWS</mark>
-    <mark>Terraform</mark>
+    <mark>Terraform</mark> <mark>PostgreSQL</mark> <mark>Concourse</mark>
 
 - layout: left
   company: Netlight
@@ -41,4 +41,4 @@
     have also been part of holding technical interviews with new candidates, arranged various meetups and held presentations.
 
     <mark>Java</mark> <mark>Spring Boot</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>MongoDB</mark> <mark>ElasticSearch</mark>
-    <mark>AWS</mark>
+    <mark>AWS</mark> <mark>Jenkins</mark>
