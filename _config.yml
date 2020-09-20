@@ -35,11 +35,14 @@ linkedin_username: jonas-svalin-492665a0
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Jonas Svalin and I am a software engineer based in Amsterdam, Netherlands. I am currently working for
-  [Kaizo](https://kaizo.com/) as a full stack engineer.
-
-  I consider myself a polyglot with experience in a wide array of programming lanugages and environments. I get excited
-  by efficient product development methodologies, functional programming, cross-functional teams, pair programming and
-  test driven development.
+  [Kaizo](https://kaizo.com/) as a full stack engineer. I consider myself a polyglot with experience in a wide array of
+  programming lanugages and environments. I get excited by:
+  - Efficient product development methodologies
+  - Microservice architectures
+  - Test driven development
+  - Functional programming
+  - Cross-functional teams
+  - Pair programming
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
