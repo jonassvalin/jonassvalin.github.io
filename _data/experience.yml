@@ -1,10 +1,44 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Kaizo
+  link: https://kaizo.com/
+  job_title: Senior Software Engineer
+  dates: August 2020 - present
   quote: >
-   Short description of the company (optional)
+    Kaizo creates performance development software which leverages gamification and AI to boost customer support team productivity
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    In my role at Kaizo I am responsible for the entire development chain. This includes gathering requirements, organizing
+    the work with my colleageus, writing code for both backend, frontend and infrastructure, as well as managing deployments.
+
+    <mark>Clojure</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>React</mark> <mark>Scala</mark> <mark>Kubernetes</mark>
+    <mark>Google Cloud</mark> <mark>Kafka</mark> <mark>MongoDB</mark>
+
+- layout: left
+  company: Kroo
+  link: https://kroo.com/
+  job_title: Tech Lead
+  dates: Spring 2018 - Summer 2020
+  quote: >
+    Kroo is a fintech challenger bank building the next generation of personal and social banking experiences
+  description: | # this will include new lines to allow paragraphs
+    My responsibilities at Kroo were to manage and lead a full product team together with a product owner, as well as developing
+    software for our entire product. At Kroo I have built end-to-end customer features such as freeze/unfreeze card, peer-to-peer payments,
+    and video identity verification. I have also been involved in regulatory processes with the FCA, managed dozens of tech
+    interviews as well as planned and executed the full rebrand of the company when the name was changed.
+
+    <mark>Clojure</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>React-Native</mark> <mark>Kafka</mark> <mark>AWS</mark>
+    <mark>Terraform</mark>
+
+- layout: left
+  company: Netlight
+  link: https://www.netlight.com/
+  job_title: Senior Software Engineer
+  dates: Autumn 2015 - Spring 2018
+  quote: >
+    Netlight is a Swedish IT consultancy with offices throughout Europe
+  description: | # this will include new lines to allow paragraphs
+    During my time at Netlight I worked on-premise with clients, developing software in a variety of environments. I
+    have also been part of holding technical interviews with new candidates, arranged various meetups and held presentations.
+
+    <mark>Java</mark> <mark>Spring Boot</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>MongoDB</mark> <mark>ElasticSearch</mark>
+    <mark>AWS</mark>
