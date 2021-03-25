@@ -1,14 +1,29 @@
 # Experience template
 - layout: left
+  company: Atomic Innovation
+  link: https://www.linkedin.com/company/atomicinnovation/
+  job_title: Senior Software Engineer
+  dates: Spring 2021 - present
+  quote: >
+    Atomic Innovation creates open source software and processes that allow startups to get off the ground faster.
+  description: | # this will include new lines to allow paragraphs
+    In my role at Atomic Innovation I help companies with whatever technical and product related challenges they're facing. We build systems,
+    structure product development and hiring processes and contribute continuously to our open-source "Blocks" projects.
+
+    <mark>Clojure</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>React-Native</mark>
+    <mark>AWS</mark> <mark>Kafka</mark> <mark>MongoDB</mark> <mark>Circle CI</mark>
+
+- layout: left
   company: Kaizo
   link: https://kaizo.com/
   job_title: Tech Lead
-  dates: Summer 2020 - present
+  dates: Summer 2020 - Spring 2021
   quote: >
     Kaizo creates performance development software which leverages gamification and AI to boost customer support team productivity
   description: | # this will include new lines to allow paragraphs
-    In my role at Kaizo I am responsible for the entire development chain. This includes gathering requirements, organizing
-    the work with my colleageus, writing code for both backend, frontend and infrastructure, as well as managing deployments.
+    In my role at Kaizo I was responsible for the entire development chain and a full product team. This included gathering requirements, organizing
+    the work with my colleageus, writing code for both backend, frontend and infrastructure, as well as managing deployments. Furthermore I managed
+    dozens of interviews, structured our team processes and rituals and mentored other Engineers.
 
     <mark>Clojure</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>React</mark> <mark>Scala</mark> <mark>Kubernetes</mark>
     <mark>Google Cloud</mark> <mark>Kafka</mark> <mark>MongoDB</mark> <mark>Github Actions</mark>
