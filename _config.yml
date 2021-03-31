@@ -34,7 +34,7 @@ linkedin_username: jonas-svalin-492665a0
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  My name is Jonas Svalin and I am a software engineer based in Amsterdam, Netherlands. I am currently working for
+  My name is Jonas Svalin and I am a full stack engineer based in Amsterdam, Netherlands. I am currently working for
   [Atomic Innovation](https://www.linkedin.com/company/atomicinnovation/) as a full stack engineer. I consider myself a polyglot 
   with experience in a wide array of programming lanugages and environments. I get excited by:
   - Efficient product development methodologies
