@@ -1,9 +1,18 @@
-# Project template
-#- layout: top-middle
-#  name: Project name
-#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+- layout: top-middle
+  name: How to do Hypermedia in distributed systems (Part 1)
+  link: https://medium.com/kroo/how-kroo-maintains-sanity-in-distributed-systems-part-1-adad8cf095bf
+- layout: top-middle
+  name: How to do Hypermedia in distributed systems (Part 2)
+  link: https://medium.com/kroo/how-kroo-maintains-sanity-in-distributed-systems-part-2-81303085ed99
+- layout: top-middle
+  name: Building a Digital Product in AWS (Part 1)
+  link: https://go-atomic.io/2021/09/06/product-in-aws-part-1.html
+- layout: top-middle
+  name: Building a Digital Product in AWS (Part 2)
+  link: https://go-atomic.io/2022/03/15/product-in-aws-part-2.html
+- layout: top-middle
+  name: Bring the Hype for hypermedia controls
+  link: https://go-atomic.io/2021/06/10/bring-the-hype.html
+- layout: top-middle
+  name: Health Checks made simple with Salutem
+  link: https://go-atomic.io/2021/09/30/health-checks.html
