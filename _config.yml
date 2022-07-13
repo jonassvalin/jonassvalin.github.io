@@ -32,7 +32,7 @@ linkedin_username: jonas-svalin-492665a0
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Jonas Svalin and I am a full stack engineer based in Amsterdam, Netherlands. I am currently working for
   [Atomic Innovation](https://www.linkedin.com/company/atomicinnovation/) as a full stack engineer. I consider myself a polyglot
