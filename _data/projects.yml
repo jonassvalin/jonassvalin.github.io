@@ -1,21 +1,15 @@
 - layout: top-middle
-  name: How to do Hypermedia in distributed systems (Part 1)
+  name: How to do hypermedia in distributed systems (2 part series)
   link: https://medium.com/kroo/how-kroo-maintains-sanity-in-distributed-systems-part-1-adad8cf095bf
 - layout: top-middle
-  name: How to do Hypermedia in distributed systems (Part 2)
-  link: https://medium.com/kroo/how-kroo-maintains-sanity-in-distributed-systems-part-2-81303085ed99
-- layout: top-middle
-  name: Building a Digital Product in AWS (Part 1)
+  name: Building a digital product in AWS (3 part series)
   link: https://go-atomic.io/2021/09/06/product-in-aws-part-1
 - layout: top-middle
-  name: Building a Digital Product in AWS (Part 2)
-  link: https://go-atomic.io/2022/03/15/product-in-aws-part-2
-- layout: top-middle
-  name: Building a Digital Product in AWS (Part 3)
-  link: https://go-atomic.io/2022/05/19/product-in-aws-part-3
-- layout: top-middle
-  name: Bring the Hype for hypermedia controls
+  name: Bring the hype for hypermedia controls
   link: https://go-atomic.io/2021/06/10/bring-the-hype
 - layout: top-middle
-  name: Health Checks made simple with Salutem
+  name: Health checks made simple with Salutem
   link: https://go-atomic.io/2021/09/30/health-checks
+- layout: top-middle
+  name: Fault localization automation using code coverage data
+  link: https://www.lunduniversity.lu.se/lup/publication/7357991
